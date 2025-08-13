@@ -1,16 +1,52 @@
-## Hi there 👋
+# 👋 Hi, I’m @mlinarik
 
-<!--
-**mlinarik/mlinarik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛡️ Application Security Product Owner | Cybersecurity Professional | Security Advocate
 
-Here are some ideas to get you started:
+I lead the charge in building, scaling, and optimizing **Application Security** programs that protect enterprise applications from code to cloud.  
+With experience spanning **SAST, DAST, SCA, CWPP, WAF**, and **AI-driven security initiatives**, I partner with developers, architects, and leadership to integrate security seamlessly into modern application development lifecycles.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🔍 What I Do
+- **Secure the SDLC** – Embedding security from ideation to deployment
+- **AppSec Strategy** – Aligning security controls with business objectives
+- **Tooling Leadership** – Managing and scaling platforms like *Checkmarx, Snyk, Veracode, NexusIQ, Prisma Cloud*
+- **Developer Empowerment** – Driving security adoption via IDE plugins, CI/CD integration, and gamification
+- **Risk Reduction** – Leveraging AI, automation, and analytics to identify and mitigate vulnerabilities faster
+
+---
+
+### 🧠 My Technical Arsenal
+| Domain | Skills & Tools |
+|--------|----------------|
+| **Application Security** | SAST, DAST, SCA, RASP, IAST |
+| **DevSecOps** | GitHub Actions, Azure DevOps, Kubernetes Security |
+| **Cloud Security** | AWS, Azure, Container Security |
+| **Programming & Scripting** | Python, Bash, PowerShell |
+| **AI in Security** | ML-based risk scoring, LLM security research |
+
+---
+
+### 🚀 Current Focus
+- Exploring **AI-enhanced vulnerability detection**
+- Building **frictionless developer security experiences**
+- Improving **cross-team collaboration** for secure delivery
+- Championing **“shift-left”** security culture
+
+---
+
+### 📈 Highlights & Achievements
+- **Led enterprise rollout** of SAST & SCA tooling across 1,000+ repositories
+- **Reduced high-severity vulnerabilities** in production by 45% within 12 months
+- **Presented** at internal security summits and led executive AppSec briefings
+- **Collaborated with vendors** to influence next-gen AI-powered security features
+
+---
+
+### 🎯 Professional Philosophy
+> *Security should be an enabler, not a blocker. My mission is to make secure development the easiest path forward.*
+
+
+---
+
+> **Fun Fact:** I’ve broken more applications in testing than most hackers have in production — and I’m proud of it. 😉
