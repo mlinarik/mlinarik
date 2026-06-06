@@ -128,16 +128,11 @@ Championing security ownership across every team.
 
 ---
 
-## GitHub Stats
+## AI-Augmented Security
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=mlinarik&show_icons=true&hide_border=true&title_color=36d1dc&icon_color=5b86e5&text_color=c9d1d9&bg_color=0d1117" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mlinarik&layout=compact&hide_border=true&title_color=36d1dc&text_color=c9d1d9&bg_color=0d1117" />
-
-<br/>
-
-<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=mlinarik&hide_border=true&background=0d1117&ring=36d1dc&fire=5b86e5&currStreakLabel=36d1dc&currStreakNum=c9d1d9&sideNums=c9d1d9&sideLabels=8b949e&dates=8b949e&stroke=36d1dc" />
+<img src="./assets/ai-security.svg" alt="AI-augmented cyber defense: neural analysis feeding a threat-detection shield" width="100%" />
 
 </div>
 
