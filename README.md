@@ -48,6 +48,9 @@ Driving adoption via IDE plugins, CI/CD integration, and gamification.
 **Risk Reduction**
 Using AI, automation, and analytics to mitigate vulnerabilities faster.
 
+**AI Security**
+Securing LLM and ML systems, and applying AI to accelerate threat detection.
+
 **Shift-Left Culture**
 Championing security ownership across every team.
 
@@ -60,6 +63,19 @@ Championing security ownership across every team.
 ## Technical Arsenal
 
 <div align="center">
+
+**Security &amp; AppSec**
+
+![Snyk](https://img.shields.io/badge/Snyk-4C4A73?style=for-the-badge&logo=snyk&logoColor=white)
+![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
+![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
+![HackerOne](https://img.shields.io/badge/HackerOne-494649?style=for-the-badge&logo=hackerone&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Vault](https://img.shields.io/badge/Vault-000000?style=for-the-badge&logo=vault&logoColor=FFEC6E)
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=65A637)
+
+**DevSecOps &amp; Cloud**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
@@ -94,28 +110,15 @@ Championing security ownership across every team.
 
 ---
 
-## Highlights &amp; Achievements
+## By the Numbers
 
-<table>
-<tr>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/10%2C000%2B-2c5364?style=for-the-badge" /><br/>
-<sub><b>Repositories secured</b><br/>Enterprise SAST &amp; SCA rollout</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/45%25-203a43?style=for-the-badge" /><br/>
-<sub><b>Fewer high-sev vulns</b><br/>In production within 12 months</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/Exec-0f2027?style=for-the-badge" /><br/>
-<sub><b>Leadership briefings</b><br/>Summits &amp; AppSec strategy</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/Vendor-2c5364?style=for-the-badge" /><br/>
-<sub><b>Product influence</b><br/>Next-gen AI security features</sub>
-</td>
-</tr>
-</table>
+<div align="center">
+
+<img src="./assets/stat-repos.svg" alt="10,000+ repositories secured" />
+&nbsp;&nbsp;
+<img src="./assets/stat-vulns.svg" alt="45% reduction in high-severity vulnerabilities" />
+
+</div>
 
 ---
 
@@ -123,12 +126,12 @@ Championing security ownership across every team.
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=mlinarik&show_icons=true&hide_border=true&title_color=2c5364&icon_color=203a43&text_color=8b949e&bg_color=0d1117" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mlinarik&layout=compact&hide_border=true&title_color=2c5364&text_color=8b949e&bg_color=0d1117" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=mlinarik&show_icons=true&hide_border=true&title_color=36d1dc&icon_color=5b86e5&text_color=c9d1d9&bg_color=0d1117" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mlinarik&layout=compact&hide_border=true&title_color=36d1dc&text_color=c9d1d9&bg_color=0d1117" />
 
 <br/>
 
-<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=mlinarik&hide_border=true&background=0d1117&ring=2c5364&fire=203a43&currStreakLabel=2c5364&sideLabels=8b949e&dates=8b949e" />
+<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=mlinarik&hide_border=true&background=0d1117&ring=36d1dc&fire=5b86e5&currStreakLabel=36d1dc&currStreakNum=c9d1d9&sideNums=c9d1d9&sideLabels=8b949e&dates=8b949e&stroke=36d1dc" />
 
 </div>
 

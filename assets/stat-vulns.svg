@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="170" viewBox="0 0 400 170" fill="none" role="img" aria-label="45 percent reduction in high-severity vulnerabilities">
+  <defs>
+    <linearGradient id="num2" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#36d1dc"/>
+      <stop offset="1" stop-color="#5b86e5"/>
+    </linearGradient>
+    <linearGradient id="edge2" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#2c5364"/>
+      <stop offset="1" stop-color="#0f2027"/>
+    </linearGradient>
+    <style>
+      .num{font:700 56px 'Segoe UI',Verdana,Arial,sans-serif;fill:url(#num2);}
+      .lbl{font:600 16px 'Segoe UI',Verdana,Arial,sans-serif;fill:#c9d1d9;}
+      .sub{font:400 12px 'Segoe UI',Verdana,Arial,sans-serif;fill:#7d8590;}
+    </style>
+  </defs>
+  <rect x="1.5" y="1.5" width="397" height="167" rx="16" fill="#0d1117" stroke="url(#edge2)" stroke-width="2.5"/>
+  <g text-anchor="middle">
+    <text class="num" x="200" y="82" opacity="0">0%<animate attributeName="opacity" values="0;1;0" keyTimes="0;0.5;1" dur="0.26s" begin="0s"/></text>
+    <text class="num" x="200" y="82" opacity="0">12%<animate attributeName="opacity" values="0;1;0" keyTimes="0;0.5;1" dur="0.26s" begin="0.26s"/></text>
+    <text class="num" x="200" y="82" opacity="0">24%<animate attributeName="opacity" values="0;1;0" keyTimes="0;0.5;1" dur="0.26s" begin="0.52s"/></text>
+    <text class="num" x="200" y="82" opacity="0">36%<animate attributeName="opacity" values="0;1;0" keyTimes="0;0.5;1" dur="0.26s" begin="0.78s"/></text>
+    <text class="num" x="200" y="82" opacity="0">42%<animate attributeName="opacity" values="0;1;0" keyTimes="0;0.5;1" dur="0.26s" begin="1.04s"/></text>
+    <text class="num" x="200" y="82" opacity="0">45%<animate attributeName="opacity" values="0;1" dur="0.4s" begin="1.30s" fill="freeze"/></text>
+  </g>
+  <text class="lbl" x="200" y="120" text-anchor="middle">High-Sev Vulns Reduced</text>
+  <text class="sub" x="200" y="142" text-anchor="middle">In production within 12 months</text>
+</svg>
