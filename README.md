@@ -1,45 +1,141 @@
-## 🛡️ Application Security Product Owner | Cybersecurity Professional | Security Advocate
+<div align="center">
 
-I lead the charge in building, scaling, and optimizing **Application Security** programs that protect enterprise applications from code to cloud.  
-With experience spanning **SAST, DAST, SCA, CWPP, WAF**, and **AI-driven security initiatives**, I partner with developers, architects, and leadership to integrate security seamlessly into modern application development lifecycles.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Application%20Security%20Leader&fontColor=ffffff&fontSize=42&fontAlignY=35&desc=From%20Code%20to%20Cloud%20%E2%80%94%20Securing%20the%20Modern%20SDLC&descAlignY=58&descSize=18" width="100%" />
+
+<a href="https://github.com/mlinarik">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=2C5364&center=true&vCenter=true&width=600&lines=AppSec+Product+Owner;Cybersecurity+Professional;Security+Advocate+%26+DevSecOps+Champion" alt="Typing SVG" />
+</a>
+
+<br/>
+
+![Focus](https://img.shields.io/badge/Focus-Application_Security-2c5364?style=for-the-badge)
+![DevSecOps](https://img.shields.io/badge/Approach-DevSecOps-203a43?style=for-the-badge)
+![AI](https://img.shields.io/badge/Frontier-AI_Security-0f2027?style=for-the-badge)
+
+</div>
 
 ---
 
-### 🔍 What I Do
-- **Secure the SDLC** – Embedding security from ideation to deployment
-- **AppSec Strategy** – Aligning security controls with business objectives
-- **Tooling Leadership** – Managing and scaling platforms like *Checkmarx, Snyk, Veracode, NexusIQ, Prisma Cloud*
-- **Developer Empowerment** – Driving security adoption via IDE plugins, CI/CD integration, and gamification
-- **Risk Reduction** – Leveraging AI, automation, and analytics to identify and mitigate vulnerabilities faster
+## About
+
+I lead the charge in building, scaling, and optimizing **Application Security** programs that protect enterprise applications from code to cloud. With experience spanning **SAST, DAST, SCA, CWPP, WAF**, and **AI-driven security initiatives**, I partner with developers, architects, and leadership to weave security seamlessly into modern development lifecycles.
+
+> Security should be an enabler, not a blocker. My mission is to make secure development the easiest path forward.
 
 ---
 
-### 🧠 My Technical Arsenal
-| Domain | Skills & Tools |
+## What I Do
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**Secure the SDLC**
+Embedding security from ideation through deployment.
+
+**AppSec Strategy**
+Aligning security controls with business objectives.
+
+**Tooling Leadership**
+Scaling platforms like Checkmarx, Snyk, Veracode, NexusIQ, and Prisma Cloud.
+
+</td>
+<td width="50%" valign="top">
+
+**Developer Empowerment**
+Driving adoption via IDE plugins, CI/CD integration, and gamification.
+
+**Risk Reduction**
+Using AI, automation, and analytics to mitigate vulnerabilities faster.
+
+**Shift-Left Culture**
+Championing security ownership across every team.
+
+</td>
+</tr>
+</table>
+
+---
+
+## Technical Arsenal
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+</div>
+
+| Domain | Skills &amp; Tools |
 |--------|----------------|
 | **Application Security** | SAST, DAST, SCA, RASP, IAST |
 | **DevSecOps** | GitHub Actions, Azure DevOps, Kubernetes Security |
 | **Cloud Security** | AWS, Azure, Container Security |
-| **Programming & Scripting** | Python, Bash, PowerShell |
+| **Programming &amp; Scripting** | Python, Bash, PowerShell |
 | **AI in Security** | ML-based risk scoring, LLM security research |
 
 ---
 
-### 🚀 Current Focus
-- Exploring **AI-enhanced vulnerability detection**
-- Building **frictionless developer security experiences**
-- Improving **cross-team collaboration** for secure delivery
-- Championing **“shift-left”** security culture
+## Current Focus
+
+```text
+▸ AI-enhanced vulnerability detection
+▸ Frictionless developer security experiences
+▸ Cross-team collaboration for secure delivery
+▸ A pervasive shift-left security culture
+```
 
 ---
 
-### 📈 Highlights & Achievements
-- **Led enterprise rollout** of SAST & SCA tooling across 10,000+ repositories
-- **Reduced high-severity vulnerabilities** in production by 45% within 12 months
-- **Presented** at internal security summits and led executive AppSec briefings
-- **Collaborated with vendors** to influence next-gen AI-powered security features
+## Highlights &amp; Achievements
+
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/10%2C000%2B-2c5364?style=for-the-badge" /><br/>
+<sub><b>Repositories secured</b><br/>Enterprise SAST &amp; SCA rollout</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/45%25-203a43?style=for-the-badge" /><br/>
+<sub><b>Fewer high-sev vulns</b><br/>In production within 12 months</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/Exec-0f2027?style=for-the-badge" /><br/>
+<sub><b>Leadership briefings</b><br/>Summits &amp; AppSec strategy</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/Vendor-2c5364?style=for-the-badge" /><br/>
+<sub><b>Product influence</b><br/>Next-gen AI security features</sub>
+</td>
+</tr>
+</table>
 
 ---
 
-### 🎯 Professional Philosophy
-> *Security should be an enabler, not a blocker. My mission is to make secure development the easiest path forward.*
+## GitHub Stats
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=mlinarik&show_icons=true&hide_border=true&title_color=2c5364&icon_color=203a43&text_color=8b949e&bg_color=0d1117" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mlinarik&layout=compact&hide_border=true&title_color=2c5364&text_color=8b949e&bg_color=0d1117" />
+
+<br/>
+
+<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=mlinarik&hide_border=true&background=0d1117&ring=2c5364&fire=203a43&currStreakLabel=2c5364&sideLabels=8b949e&dates=8b949e" />
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%" />
+
+</div>
