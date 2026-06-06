@@ -102,10 +102,16 @@ Championing security ownership across every team.
 ## Current Focus
 
 ```text
-▸ AI-enhanced vulnerability detection
+▸ AI-enhanced vulnerability detection and remediation
+▸ Secure adoption and governance of AI-generated code
 ▸ Frictionless developer security experiences
+▸ Application Security and AI risk management convergence
+▸ Threat modeling for modern cloud-native architectures
 ▸ Cross-team collaboration for secure delivery
+▸ Data-driven security program maturity and measurement
+▸ Researching emerging attack techniques and defensive controls
 ▸ A pervasive shift-left security culture
+▸ Scaling security through automation and intelligent workflows
 ```
 
 ---
