@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="400" height="170" viewBox="0 0 400 170" fill="none" role="img" aria-label="10,000+ repositories secured">
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="400" height="170" viewBox="0 0 400 170" fill="none" role="img" aria-label="15,000 repositories secured">
   <defs>
     <linearGradient id="num" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#36d1dc"/>
@@ -16,12 +16,67 @@
   </defs>
   <rect x="1.5" y="1.5" width="397" height="167" rx="16" fill="#0d1117" stroke="url(#edge)" stroke-width="2.5"/>
   <g text-anchor="middle">
-    <text class="num" x="200" y="82" opacity="0">0<animate attributeName="opacity" values="0;1;0" keyTimes="0;0.5;1" dur="0.26s" begin="0s"/></text>
-    <text class="num" x="200" y="82" opacity="0">2,000<animate attributeName="opacity" values="0;1;0" keyTimes="0;0.5;1" dur="0.26s" begin="0.26s"/></text>
-    <text class="num" x="200" y="82" opacity="0">5,000<animate attributeName="opacity" values="0;1;0" keyTimes="0;0.5;1" dur="0.26s" begin="0.52s"/></text>
-    <text class="num" x="200" y="82" opacity="0">7,500<animate attributeName="opacity" values="0;1;0" keyTimes="0;0.5;1" dur="0.26s" begin="0.78s"/></text>
-    <text class="num" x="200" y="82" opacity="0">9,200<animate attributeName="opacity" values="0;1;0" keyTimes="0;0.5;1" dur="0.26s" begin="1.04s"/></text>
-    <text class="num" x="200" y="82" opacity="0">10,000+<animate attributeName="opacity" values="0;1" dur="0.4s" begin="1.30s" fill="freeze"/></text>
+    <text class="num" x="200" y="82" opacity="0">0<set attributeName="opacity" to="1" begin="0s" dur="0.1667s"/></text>
+    <text class="num" x="200" y="82" opacity="0">250<set attributeName="opacity" to="1" begin="0.1667s" dur="0.1667s"/></text>
+    <text class="num" x="200" y="82" opacity="0">500<set attributeName="opacity" to="1" begin="0.3333s" dur="0.1667s"/></text>
+    <text class="num" x="200" y="82" opacity="0">750<set attributeName="opacity" to="1" begin="0.5s" dur="0.1667s"/></text>
+    <text class="num" x="200" y="82" opacity="0">1,000<set attributeName="opacity" to="1" begin="0.6667s" dur="0.1667s"/></text>
+    <text class="num" x="200" y="82" opacity="0">1,250<set attributeName="opacity" to="1" begin="0.8333s" dur="0.1667s"/></text>
+    <text class="num" x="200" y="82" opacity="0">1,500<set attributeName="opacity" to="1" begin="1s" dur="0.1667s"/></text>
+    <text class="num" x="200" y="82" opacity="0">1,750<set attributeName="opacity" to="1" begin="1.1667s" dur="0.1667s"/></text>
+    <text class="num" x="200" y="82" opacity="0">2,000<set attributeName="opacity" to="1" begin="1.3333s" dur="0.1667s"/></text>
+    <text class="num" x="200" y="82" opacity="0">2,250<set attributeName="opacity" to="1" begin="1.5s" dur="0.1667s"/></text>
+    <text class="num" x="200" y="82" opacity="0">2,500<set attributeName="opacity" to="1" begin="1.6667s" dur="0.1667s"/></text>
+    <text class="num" x="200" y="82" opacity="0">2,750<set attributeName="opacity" to="1" begin="1.8333s" dur="0.1667s"/></text>
+    <text class="num" x="200" y="82" opacity="0">3,000<set attributeName="opacity" to="1" begin="2s" dur="0.1667s"/></text>
+    <text class="num" x="200" y="82" opacity="0">3,250<set attributeName="opacity" to="1" begin="2.1667s" dur="0.1667s"/></text>
+    <text class="num" x="200" y="82" opacity="0">3,500<set attributeName="opacity" to="1" begin="2.3333s" dur="0.1667s"/></text>
+    <text class="num" x="200" y="82" opacity="0">3,750<set attributeName="opacity" to="1" begin="2.5s" dur="0.1667s"/></text>
+    <text class="num" x="200" y="82" opacity="0">4,000<set attributeName="opacity" to="1" begin="2.6667s" dur="0.1667s"/></text>
+    <text class="num" x="200" y="82" opacity="0">4,250<set attributeName="opacity" to="1" begin="2.8333s" dur="0.1667s"/></text>
+    <text class="num" x="200" y="82" opacity="0">4,500<set attributeName="opacity" to="1" begin="3s" dur="0.1667s"/></text>
+    <text class="num" x="200" y="82" opacity="0">4,750<set attributeName="opacity" to="1" begin="3.1667s" dur="0.1667s"/></text>
+    <text class="num" x="200" y="82" opacity="0">5,000<set attributeName="opacity" to="1" begin="3.3333s" dur="0.1667s"/></text>
+    <text class="num" x="200" y="82" opacity="0">5,250<set attributeName="opacity" to="1" begin="3.5s" dur="0.1667s"/></text>
+    <text class="num" x="200" y="82" opacity="0">5,500<set attributeName="opacity" to="1" begin="3.6667s" dur="0.1667s"/></text>
+    <text class="num" x="200" y="82" opacity="0">5,750<set attributeName="opacity" to="1" begin="3.8333s" dur="0.1667s"/></text>
+    <text class="num" x="200" y="82" opacity="0">6,000<set attributeName="opacity" to="1" begin="4s" dur="0.1667s"/></text>
+    <text class="num" x="200" y="82" opacity="0">6,250<set attributeName="opacity" to="1" begin="4.1667s" dur="0.1667s"/></text>
+    <text class="num" x="200" y="82" opacity="0">6,500<set attributeName="opacity" to="1" begin="4.3333s" dur="0.1667s"/></text>
+    <text class="num" x="200" y="82" opacity="0">6,750<set attributeName="opacity" to="1" begin="4.5s" dur="0.1667s"/></text>
+    <text class="num" x="200" y="82" opacity="0">7,000<set attributeName="opacity" to="1" begin="4.6667s" dur="0.1667s"/></text>
+    <text class="num" x="200" y="82" opacity="0">7,250<set attributeName="opacity" to="1" begin="4.8333s" dur="0.1667s"/></text>
+    <text class="num" x="200" y="82" opacity="0">7,500<set attributeName="opacity" to="1" begin="5s" dur="0.1667s"/></text>
+    <text class="num" x="200" y="82" opacity="0">7,750<set attributeName="opacity" to="1" begin="5.1667s" dur="0.1667s"/></text>
+    <text class="num" x="200" y="82" opacity="0">8,000<set attributeName="opacity" to="1" begin="5.3333s" dur="0.1667s"/></text>
+    <text class="num" x="200" y="82" opacity="0">8,250<set attributeName="opacity" to="1" begin="5.5s" dur="0.1667s"/></text>
+    <text class="num" x="200" y="82" opacity="0">8,500<set attributeName="opacity" to="1" begin="5.6667s" dur="0.1667s"/></text>
+    <text class="num" x="200" y="82" opacity="0">8,750<set attributeName="opacity" to="1" begin="5.8333s" dur="0.1667s"/></text>
+    <text class="num" x="200" y="82" opacity="0">9,000<set attributeName="opacity" to="1" begin="6s" dur="0.1667s"/></text>
+    <text class="num" x="200" y="82" opacity="0">9,250<set attributeName="opacity" to="1" begin="6.1667s" dur="0.1667s"/></text>
+    <text class="num" x="200" y="82" opacity="0">9,500<set attributeName="opacity" to="1" begin="6.3333s" dur="0.1667s"/></text>
+    <text class="num" x="200" y="82" opacity="0">9,750<set attributeName="opacity" to="1" begin="6.5s" dur="0.1667s"/></text>
+    <text class="num" x="200" y="82" opacity="0">10,000<set attributeName="opacity" to="1" begin="6.6667s" dur="0.1667s"/></text>
+    <text class="num" x="200" y="82" opacity="0">10,250<set attributeName="opacity" to="1" begin="6.8333s" dur="0.1667s"/></text>
+    <text class="num" x="200" y="82" opacity="0">10,500<set attributeName="opacity" to="1" begin="7s" dur="0.1667s"/></text>
+    <text class="num" x="200" y="82" opacity="0">10,750<set attributeName="opacity" to="1" begin="7.1667s" dur="0.1667s"/></text>
+    <text class="num" x="200" y="82" opacity="0">11,000<set attributeName="opacity" to="1" begin="7.3333s" dur="0.1667s"/></text>
+    <text class="num" x="200" y="82" opacity="0">11,250<set attributeName="opacity" to="1" begin="7.5s" dur="0.1667s"/></text>
+    <text class="num" x="200" y="82" opacity="0">11,500<set attributeName="opacity" to="1" begin="7.6667s" dur="0.1667s"/></text>
+    <text class="num" x="200" y="82" opacity="0">11,750<set attributeName="opacity" to="1" begin="7.8333s" dur="0.1667s"/></text>
+    <text class="num" x="200" y="82" opacity="0">12,000<set attributeName="opacity" to="1" begin="8s" dur="0.1667s"/></text>
+    <text class="num" x="200" y="82" opacity="0">12,250<set attributeName="opacity" to="1" begin="8.1667s" dur="0.1667s"/></text>
+    <text class="num" x="200" y="82" opacity="0">12,500<set attributeName="opacity" to="1" begin="8.3333s" dur="0.1667s"/></text>
+    <text class="num" x="200" y="82" opacity="0">12,750<set attributeName="opacity" to="1" begin="8.5s" dur="0.1667s"/></text>
+    <text class="num" x="200" y="82" opacity="0">13,000<set attributeName="opacity" to="1" begin="8.6667s" dur="0.1667s"/></text>
+    <text class="num" x="200" y="82" opacity="0">13,250<set attributeName="opacity" to="1" begin="8.8333s" dur="0.1667s"/></text>
+    <text class="num" x="200" y="82" opacity="0">13,500<set attributeName="opacity" to="1" begin="9s" dur="0.1667s"/></text>
+    <text class="num" x="200" y="82" opacity="0">13,750<set attributeName="opacity" to="1" begin="9.1667s" dur="0.1667s"/></text>
+    <text class="num" x="200" y="82" opacity="0">14,000<set attributeName="opacity" to="1" begin="9.3333s" dur="0.1667s"/></text>
+    <text class="num" x="200" y="82" opacity="0">14,250<set attributeName="opacity" to="1" begin="9.5s" dur="0.1667s"/></text>
+    <text class="num" x="200" y="82" opacity="0">14,500<set attributeName="opacity" to="1" begin="9.6667s" dur="0.1667s"/></text>
+    <text class="num" x="200" y="82" opacity="0">14,750<set attributeName="opacity" to="1" begin="9.8333s" dur="0.1667s"/></text>
+    <text class="num" x="200" y="82" opacity="0">15,000<set attributeName="opacity" to="1" begin="10s" fill="freeze"/></text>
   </g>
   <text class="lbl" x="200" y="120" text-anchor="middle">Repositories Secured</text>
   <text class="sub" x="200" y="142" text-anchor="middle">Enterprise SAST &amp; SCA rollout</text>

@@ -114,9 +114,9 @@ Championing security ownership across every team.
 
 <div align="center">
 
-<img src="./assets/stat-repos.svg" alt="10,000+ repositories secured" />
+<img src="./assets/stat-repos.svg" alt="15,000 repositories secured" />
 &nbsp;&nbsp;
-<img src="./assets/stat-vulns.svg" alt="45% reduction in high-severity vulnerabilities" />
+<img src="./assets/stat-vulns.svg" alt="High and critical vulnerabilities reduced" />
 
 </div>
 
